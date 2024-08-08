@@ -1,0 +1,15 @@
+{
+    "name": "admin/ams2",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Ams2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dangkhoa2xm3",
+            "email": "dangkhoa1119991@gmail.com"
+        }
+    ],
+    "require": {}
+}
